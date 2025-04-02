@@ -4,3 +4,4 @@ Solutions to exercises in the book Deitel & Deitel - Java How to Program, 11/e (
 
 ## Chapter List
 > - **Chapter 1**  - Introduction to Computers, the Internet and Java
+> - **Chapter 2**  - [Introduction to Java Applications; Input/Output and Operators]
